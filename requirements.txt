@@ -1,0 +1,12 @@
+asgiref==3.7.2
+Django==5.0.1
+gunicorn==23.0.0
+packaging==24.2
+Pillow==10.1.0
+pygame==2.5.2
+PyQt6==6.6.0
+PyQt6-Qt6==6.6.0
+PyQt6-sip==13.6.0
+python-dotenv==1.0.1
+sqlparse==0.4.4
+tzdata==2023.4
